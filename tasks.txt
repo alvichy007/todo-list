@@ -6,3 +6,5 @@ echo "Task 2: Create initial project structure" >> tasks.txt
 echo "Task 3: Implement core functionality" >> tasks.txt
 git add tasks.txt
 git commit -m "Add initial tasks to tasks.txt".....
+My Name is Tajwar Chowdhury
+alvichowdhury2003@gmail.com
