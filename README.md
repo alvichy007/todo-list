@@ -1,1 +1,1 @@
-THis is my first project in git hub.I know that there is too much mistake from doing this project.Please forgive me.I try my best to complete this project....I will be great if you give us somse tutorial about this project
+THis is my first project in git hub.I know that there is too much mistake from doing this project.Please forgive me.I try my best to complete this project....It will be great if you give us some tutorial about this project..
